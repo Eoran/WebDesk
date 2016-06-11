@@ -1,0 +1,385 @@
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\csc.exe
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\System.Collections.Immutable.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\vbc.exe
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe.config
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\WebDesk.dll.config
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\WebDesk.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\WebDesk.pdb
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\Antlr3.Runtime.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\Microsoft.Web.Infrastructure.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\Newtonsoft.Json.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Helpers.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Mvc.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Optimization.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Razor.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.WebPages.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\WebGrease.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Helpers.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Mvc.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Optimization.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.Razor.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.WebPages.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\Antlr3.Runtime.pdb
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\bin\Newtonsoft.Json.xml
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\obj\Debug\WebDesk.csprojResolveAssemblyReference.cache
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\obj\Debug\WebDesk.dll
+c:\users\smithers\documents\visual studio 2015\Projects\WebDesk\WebDesk\obj\Debug\WebDesk.pdb
+C:\Users\Smithers\Documents\Visual Studio 2015\Projects\WebDesk\WebDesk\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Smithers\Documents\Visual Studio 2015\Projects\WebDesk\WebDesk\bin\PagedList.dll
+C:\Users\Smithers\Documents\Visual Studio 2015\Projects\WebDesk\WebDesk\bin\PagedList.Mvc.dll
+C:\Users\Smithers\Documents\Visual Studio 2015\Projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.dll
+C:\Users\Smithers\Documents\Visual Studio 2015\Projects\WebDesk\WebDesk\bin\PagedList.xml
+C:\Users\Smithers\Documents\Visual Studio 2015\Projects\WebDesk\WebDesk\bin\PagedList.Mvc.xml
+C:\Users\Smithers\Documents\Visual Studio 2015\Projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\csc.exe
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\vbc.exe
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\WebDesk.dll.config
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\WebDesk.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\WebDesk.pdb
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Antlr3.Runtime.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Newtonsoft.Json.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\PagedList.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\PagedList.Mvc.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Helpers.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Mvc.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Optimization.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Razor.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.WebPages.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\WebGrease.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\PagedList.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\PagedList.Mvc.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Helpers.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Mvc.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Optimization.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.Razor.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.WebPages.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Antlr3.Runtime.pdb
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\bin\Newtonsoft.Json.xml
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\obj\Debug\WebDesk.csprojResolveAssemblyReference.cache
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\obj\Debug\WebDesk.dll
+C:\Users\Nicolai\Desktop\WebDesk\WebDesk\obj\Debug\WebDesk.pdb
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Collections.Immutable.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Reflection.Metadata.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe.config
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll.config
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.pdb
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.Web.Infrastructure.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\WebGrease.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.pdb
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.xml
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.csprojResolveAssemblyReference.cache
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.dll
+E:\CloudStation\Work\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.pdb
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Collections.Immutable.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Reflection.Metadata.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe.config
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll.config
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.pdb
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.Web.Infrastructure.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebGrease.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.pdb
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.xml
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.csprojResolveAssemblyReference.cache
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.pdb
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe.config
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.rsp
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.exe
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.rsp
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.AppContext.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe.config
+E:\CloudStation\Work\backup\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.rsp
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe.config
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.rsp
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.exe
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.rsp
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.AppContext.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe.config
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.rsp
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll.config
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.pdb
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebGrease.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.pdb
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.xml
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.csprojResolveAssemblyReference.cache
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.dll
+C:\Users\Smithers\Desktop\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.pdb
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe.config
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.rsp
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.exe
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.rsp
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.AppContext.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Collections.Immutable.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Reflection.Metadata.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe.config
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.rsp
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe.config
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll.config
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.pdb
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.Web.Infrastructure.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\WebGrease.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.pdb
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.xml
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.csprojResolveAssemblyReference.cache
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.dll
+E:\CloudStation\Work\backup\DO TOUCH\DO TOUCH\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.pdb
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.exe.config
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csc.rsp
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.exe
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\csi.rsp
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.AppContext.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Collections.Immutable.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\System.Reflection.Metadata.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.exe.config
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\vbc.rsp
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\roslyn\VBCSCompiler.exe.config
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll.config
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\WebDesk.pdb
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.Web.Infrastructure.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\WebGrease.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Antlr3.Runtime.pdb
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Newtonsoft.Json.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\PagedList.Mvc.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\Pihrtsoft.Snippets.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Helpers.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Mvc.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Optimization.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.Razor.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Deployment.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\bin\System.Web.WebPages.Razor.xml
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.csprojResolveAssemblyReference.cache
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.dll
+E:\CloudStation\Work\backup\Visual Studio projects\WebDesk\WebDesk\obj\Debug\WebDesk.pdb

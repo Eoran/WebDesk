@@ -1,0 +1,115 @@
+﻿<style> 
+#pricehandle{
+    display:none;
+}
+</style>
+<div class="section" id="sec1">
+
+    <div class="SecWrapper">
+        <h1>Kontakt</h1>
+        <hr class="title-hr" />
+        <div class="row SecCon">
+            <div class="col-md-2"></div>
+            <div class="col-md-8" id="secCont">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1 class="text-center">Kontakt</h1>
+                        <hr class="text-left" />
+                        <h3>Telefon: <a href="tel:+4542651168" class="btn btn-default" role="button">42 64 11 68</a></h3>
+                        <h4>
+                            Telefontider:
+                            Alle hverdage mellem 15 - 17
+                        </h4>
+                        <h3 class="text-justify">Adresse: <a href="geo:56.42370,10.87041" class="btn btn-default" role="button">Solskrænten 58, 8500 Grenå</a></h3>
+                        <h3>E-Mail: <a href="mailto:infok@wbdesk.dk" class="btn btn-default" role="button">info@wbdesk.dk</a></h3>
+                        <h3 class="text-justify">CVR: 37194735</h3>
+                    </div>
+                    <div class="col-md-6 ">
+                        <h1 class="text-center">Nicolai Andreas Larsen</h1>
+                        <hr />
+                        <p class="text-justify">
+                            <img src="~/Content/Images/profile.png" class="pull-right" />
+                            <h4>Uddannelse:</h4>
+                        <p class="text-justify">IT-Supporter, webintegrator & multimedie-integrator.</p>
+                        <h4>Erfaring:</h4>
+                        <p class="text-justify">Mere end 10 års erfaring med IT og hardware, opsætning af kontor hos mindre virksomheder og server opsætning.</p>
+                        <p>
+                            Uddannet i webdesign og opsætning i Umbraco og Wordpress, erfaren design konsulent til rådighed af skræddersyet design.
+                        </p>
+                    </div>
+
+                </div>
+                <div class="row">
+                   
+                        <div class="col-md-6">
+                            <div id="what">
+                                <img src="~/Content/Images/fb.png" alt="What"><span style="max-width:200px;"> Find os på Facebook hvor vi besvarer spørgsmål inden for 24 timer på alle hverdage.
+</span>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                                
+                        </div>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="section" id="sec3">
+
+    <div class="SecWrapper">
+        <h1>Kontaktformular</h1>
+        <hr class="title-hr" />
+        <div class="row SecCon">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
+                {
+
+                    <div class="form-group">
+
+                        <label for="navn">Navn:</label><input name="Navn" type="text" id="navn" class="form-control" placeholder="Skriv dit navn her" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="mail">Email:</label><input class="form-control" name="Email" id="mail" type="email" placeholder="Skriv din Email her" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="emne">Emne:</label><select id="emne" class="form-control" placeholder="Vælg hvad din henvendelse drejer sig om" name="Emne" required>
+                            <option value="Reparation">IT reparationer</option>
+                            <option value="KontorServer">Kontor & Server opsætning</option>
+                            <option value="Web">Hjemmeside & Web</option>
+                            <option value="Konsulent">Rådgivning & Konsuletation</option>
+                            <option value="Andet">Andet</option>
+                        </select>
+                    </div>
+                        <div class="form-group">
+                            <label for="besked">Besked:</label>
+                            <textarea class="form-control" id="besked" name="Message" required rows="13" cols="20"></textarea>
+                        </div>
+                            <button class="btn btn-default pull-right" type="submit">Send</button>
+
+                }
+
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script type="text/javascript">
+
+        $('#contacthandle').attr("href", "#2Page");
+        var handle = $('.slide-out-div3');
+        handle.removeClass("slide-out-div3");
+        handle.addClass("slide-out-div2");
+
+
+    </script>
+    
+    }

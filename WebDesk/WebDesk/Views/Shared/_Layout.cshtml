@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link rel="stylesheet" type="text/css" href="/Scripts/fullPage.js-master/jquery.fullPage.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <style>
+        .section {
+            font-size: 6em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav navbar navbar-fixed-top" id="menu">
+        <div class="row">
+            <div class="col-md-3">
+                <a href="@Url.Action("Index")"><img src="~/Content/Images/HeaderWebsite.png" class="logo" /></a>
+            </div>
+            <div class="col-md-9">
+                <div class="row">
+                    <a href="@Url.Action("Computer")" id="Computer" class="col-md-5ths navPic">
+
+                        <img src="~/Content/Images/icon1-repairW.png" class="" />
+                        <span>Reparation</span>
+                    </a>
+                    <a href="@Url.Action("Office")" id="Kontor" class="col-md-5ths navPic"> <img class=""  src="~/Content/Images/officeW.png" /> 
+                        <span>Kontor</span>
+                    </a>
+                    <a href="@Url.Action("Web")" id="Web" class="col-md-5ths navPic"> <img class=""  src="~/Content/Images/icon3-webW.png" />
+                        <span>Web</span>
+                    </a>
+                    <a href="@Url.Action("Konsulent")" id="Konsulent" class="col-md-5ths navPic"> <img class=""  src="~/Content/Images/icon4-konsulentW.png" />
+                        <span>Konsulation</span>
+                    </a>
+                    <a href="@Url.Action("Contact")" id="Kontakt" class="col-md-5ths navPic"> <img class=""  src="~/Content/Images/icon2-contactW.png" />
+                        <span>Kontakt</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a href="#1Page">
+        <div class="slide-out-div">
+            <span class="handle"></span>
+            <h3>Information</h3>
+        </div>
+    </a>
+    <a href="#2Page" id="pricehandle">
+        <div class="slide-out-div2">
+            <span class="handle2"></span>
+            <h3>Priser</h3>
+
+        </div>
+    </a>
+    <a href="#3Page" id="contacthandle">
+        <div class="slide-out-div3">
+            <span class="handle3"></span>
+            <h3>Kontakt</h3>
+
+        </div>
+    </a>
+    <a href="https://www.facebook.com/wbdesk/" target="_blank">
+        <div class="slide-out-div-fb">
+            <span class="handle-fb"></span>
+            <h3>Facebook</h3>
+        </div>
+    </a>
+    <div id="fullpage">
+
+        @RenderBody()
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <script src="~/Scripts/fullPage.js-master/vendors/jquery.easings.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/fullPage.js-master/jquery.fullPage.min.js"></script>
+    @RenderSection("scripts", required: false)
+    <script type="text/javascript">
+
+
+
+        $(document).ready(function () {
+
+            
+            var res = $('a[href="' + window.location.pathname + '"]');
+            res.addClass('active');
+
+            var tempurl = ($('.active > img').attr('src') + "")
+            console.log(tempurl);
+            var urlsplit = tempurl.split(".");
+            var urlname = urlsplit[0].slice(0, -1);
+            console.log(urlname);
+            var final = (urlname + "."+ urlsplit[1]);
+            console.log(final)
+
+            $('.active > img').attr('src', final);
+
+
+            $('#fullpage').fullpage({
+                sectionsColor: ['whitesmoke', '#dfe1e3', '#a4d4ec', 'whitesmoke'],
+                anchors: ['1Page', '2Page', '3Page', '4Page'],
+                paddingTop: '85px',
+                menu: '',
+                paddingBottom: '0',
+                fixedElements: '',
+                responsiveWidth: 1200,
+                responsiveHeight: 1000,
+            });
+
+            $('.slide-out-div').tabSlideOut({
+                tabHandle: '.handle',                     //class of the element that will become your tab
+                pathToTabImage: '/Content/Images/info.png', //path to the image for the tab //Optionally can be set using css
+                imageHeight: '100%',                     //height of tab image           //Optionally can be set using css
+                imageWidth: '100%',                       //width of tab image            //Optionally can be set using css
+                tabLocation: 'left',                      //side of screen where tab lives, top, right, bottom, or left
+                speed: 300,                               //speed of animation
+                action: 'hover',                          //options: 'click' or 'hover', action to trigger animation
+                topPos: '300px',                          //position from the top/ use if tabLocation is left or right
+                leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+                fixedPosition: true,                      //options: true makes it stick(fixed position) on scroll
+            });
+            $('.slide-out-div2').tabSlideOut({
+                tabHandle: '.handle2',                     //class of the element that will become your tab
+                pathToTabImage: '/Content/Images/money.png', //path to the image for the tab //Optionally can be set using css
+                imageHeight: '100%',                     //height of tab image           //Optionally can be set using css
+                imageWidth: '100%',                       //width of tab image            //Optionally can be set using css
+                tabLocation: 'left',                      //side of screen where tab lives, top, right, bottom, or left
+                speed: 300,                               //speed of animation
+                action: 'hover',                          //options: 'click' or 'hover', action to trigger animation
+                topPos: '370px',                          //position from the top/ use if tabLocation is left or right
+                leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+                fixedPosition: true,                      //options: true makes it stick(fixed position) on scroll
+            });
+            $('.slide-out-div3').tabSlideOut({
+                tabHandle: '.handle3',                     //class of the element that will become your tab
+                pathToTabImage: '/Content/Images/contact.png', //path to the image for the tab //Optionally can be set using css
+                imageHeight: '100%',                     //height of tab image           //Optionally can be set using css
+                imageWidth: '100%',                       //width of tab image            //Optionally can be set using css
+                tabLocation: 'left',                      //side of screen where tab lives, top, right, bottom, or left
+                speed: 300,                               //speed of animation
+                action: 'hover',                          //options: 'click' or 'hover', action to trigger animation
+                topPos: '440px',                          //position from the top/ use if tabLocation is left or right
+                leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+                fixedPosition: true,                      //options: true makes it stick(fixed position) on scroll
+            });
+            $('.slide-out-div-fb').tabSlideOut({
+                tabHandle: '.handle-fb',                     //class of the element that will become your tab
+                pathToTabImage: '/Content/Images/fb.png', //path to the image for the tab //Optionally can be set using css
+                imageHeight: '100%',                     //height of tab image           //Optionally can be set using css
+                imageWidth: '100%',                       //width of tab image            //Optionally can be set using css
+                tabLocation: 'right',                      //side of screen where tab lives, top, right, bottom, or left
+                speed: 300,                               //speed of animation
+                action: 'hover',                          //options: 'click' or 'hover', action to trigger animation
+                topPos: '90%',                          //position from the top/ use if tabLocation is left or right
+                leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+                fixedPosition: true,                      //options: true makes it stick(fixed position) on scroll
+            });
+        });
+
+
+
+    </script>
+
+</body>
+</html>

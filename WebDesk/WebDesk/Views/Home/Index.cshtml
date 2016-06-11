@@ -1,0 +1,196 @@
+﻿
+<!DOCTYPE html>
+<html>
+@{
+    Layout = null;
+    ViewBag.Title = "Home Page";
+
+}
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body style="padding:0px; height:100%">
+
+    <header class="navbar navbar-fixed-top">
+        <a href="@Url.Action("Index")"><img src="~/Content/Images/HeaderWebsite.png" class="" /></a>
+
+    </header>
+    <div class="row" style="height:100%; margin:0px; ">
+        <div class="Picture col-md-5ths" id="Computer">
+            <div class="col-md-12">
+                <h1>Computer</h1>
+                <img src="~/Content/Images/icon1-repairW.png" />
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Fejlfinding af hardware og software samt service eftersyn</li>
+                    <li>Windows installation og opgradering</li>
+                    <li>Virus & Malware fjernelse og forebyggelse</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Udskiftning og reparation af hardware</li>
+                    <li>Reparationer af bærbare og stationære</li>
+                    <li>Backup & genskabelse af harddisk</li>
+                </ul>
+            </div>
+            <a href="@Url.Action("Computer")"><img src="~/Content/Images/arrowsW.png" /></a>
+        </div>
+        <div class="Picture col-md-5ths" id="Kontor">
+            <div class="col-md-12">
+                <h1>Kontor & Server</h1>
+                <img src="~/Content/Images/officeW.png" />
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Professionelt opsat kontor</li>
+                    <li>Praktiske og funktionelle løsninger til dine behov</li>
+                    <li>Økonomiske løsninger til din virksomhed</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Server & internet opsætning til din virksomhed</li>
+                    <li>Printer & fjernstyringsopsætning</li>
+                    <li>Konferencer & mødelokale opsætning</li>
+                </ul>
+            </div>
+            <a href="@Url.Action("Office")"><img src="~/Content/Images/arrowsW.png" /></a>
+        </div>
+        <div class="Picture col-md-5ths" id="Web">
+            <div class="col-md-12">
+                <h1>Web & Design Løsninger</h1>
+                <img src="~/Content/Images/icon3-webW.png" />
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Grafisk design
+                    <li>Flyers, visitkort, skilte & banners m.m</li>
+                    <li>Domæne & hosting opsætning</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Konsultation om CMS system</li>
+                    <li>Opsætning af CMS system</li>
+                    <li>Pakkeløsninger på færdiglavet hjemmesider</li>
+                </ul>
+            </div>
+            <a href="@Url.Action("Web")"><img src="~/Content/Images/arrowsW.png" /></a>
+        </div>
+        <div class="Picture col-md-5ths" id="Konsulent">
+            <div class="col-md-12">
+                <h1>Konsultation</h1>
+                <img src="~/Content/Images/icon4-konsulentW.png" />
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Spørgsmål og svar på valg af ny computer</li>
+                    <li>Konsultation & sammensætning af egen computer</li>
+                    <li>Opsætning af sociale medier til virksomhed</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Konsultation om web løsninger</li>
+                    <li>Kommunikative opgaver</li>
+                    <li>SEO løsninger og adwords kampagner</li>
+                </ul>
+            </div>
+            <a href="@Url.Action("Konsulent")"><img src="~/Content/Images/arrowsW.png" /></a>
+        </div>
+        <div class="Picture col-md-5ths" id="Kontakt">
+            <div class="col-md-12">
+                <h1>Kontakt</h1>
+                <img src="~/Content/Images/icon2-contactW.png" />
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Kontaktformular</li>
+                    <li>Der er altid svar på Facebook inden for 24 timer på hverdage</li>
+                    <li>E-mail henvendelser får svar inden for 24 timer på hverdage</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Telefonnummer og tider</li>
+                    <li>Yderlige information om kontaktmuligheder</li>
+                    <li>Indlevering og leveringsinformation</li>
+                </ul>
+            </div>
+            <a href="@Url.Action("Contact")"><img src="~/Content/Images/arrowsW.png" /></a>
+        </div>
+
+    </div>
+    <a href="https://www.facebook.com/wbdesk/" target="_blank">
+        <div class="slide-out-div-fb">
+            <span class="handle-fb"></span>
+            <h3>Facebook</h3>
+        </div>
+    </a>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.Picture').hover(function () {
+
+                $('.Picture').not(this).removeClass('col-md-4');
+                $(this).find('ul').toggleClass('hiddentext');
+                $(this).find('a').toggleClass('links');
+                $(this).toggleClass('col-md-4');
+
+                if ($(this).hasClass('col-md-4')) {
+                    $('.Picture').removeClass('col-md-5ths');
+                    $('.Picture').not(this).addClass('col-md-2');
+                    $('.Picture').not(this).find('ul').removeClass('hiddentext');
+                    $('.Picture').not(this).find('a').removeClass('links');
+                } else {
+
+                    $('.Picture').addClass('col-md-5ths');
+                    $('.Picture').not(this).find('ul').removeClass('hiddentext');
+                    $('.Picture').not(this).find('a').removeClass('links');
+                    $('.Picture').removeClass('col-md-2');
+                }
+
+                //if ($(this).hasClass('col-md-6')) {
+                //    $('.Picture').addClass('col-md-4')
+                //    $('.Picture').removeClass('col-md-3')
+                //    $(this).removeClass('col-md-6')
+                //}
+                //else
+                //{
+                //$(this).addClass('col-md-6')
+                //$(this).removeClass('col-md-4')
+                //$('.Picture').not(this).removeClass('col-md-4')
+                //$('.Picture').not(this).removeClass('col-md-6')
+                //$('.Picture').not(this).addClass('col-md-3')
+                //}
+
+
+            });
+            $('.slide-out-div-fb').tabSlideOut({
+                tabHandle: '.handle-fb',                     //class of the element that will become your tab
+                pathToTabImage: '/Content/Images/fb.png', //path to the image for the tab //Optionally can be set using css
+                imageHeight: '100%',                     //height of tab image           //Optionally can be set using css
+                imageWidth: '100%',                       //width of tab image            //Optionally can be set using css
+                tabLocation: 'right',                      //side of screen where tab lives, top, right, bottom, or left
+                speed: 300,                               //speed of animation
+                action: 'hover',                          //options: 'click' or 'hover', action to trigger animation
+                topPos: '90%',                          //position from the top/ use if tabLocation is left or right
+                leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+                fixedPosition: true,                      //options: true makes it stick(fixed position) on scroll
+            });
+        });
+
+    </script>
+
+</body>
+</html>
+
